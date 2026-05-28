@@ -57,4 +57,8 @@ I'm a <b>full-stack web developer</b> who bridges the gap between clean code and
 
 ## 📧 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moira-chelsey-burbos)
+<p align="center">
+  <a href="https://linkedin.com/in/moira-chelsey-burbos">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
