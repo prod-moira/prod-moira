@@ -1,3 +1,4 @@
+
 <h2 align="center">Hi, I'm Moira! 💻</h2>
 
 <p align="center">
@@ -47,6 +48,7 @@ I'm a <b>full-stack web developer</b> who bridges the gap between clean code and
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Figma-6D2E42?style=flat&logo=figma&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -55,8 +57,4 @@ I'm a <b>full-stack web developer</b> who bridges the gap between clean code and
 
 ## 📧 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/moira-chelsey-burbos">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moira-chelsey-burbos)
