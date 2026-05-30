@@ -22,6 +22,7 @@ I'm a <b>full-stack web developer</b> who bridges the gap between clean code and
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=Typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
     </td>
   </tr>
@@ -32,6 +33,7 @@ I'm a <b>full-stack web developer</b> who bridges the gap between clean code and
       <img src="https://img.shields.io/badge/React-4BC8F5?style=flat&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/React_Native-4BC8F5?style=flat&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-lightblue?style=flat&logo=TailwindCSS&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -52,7 +54,6 @@ I'm a <b>full-stack web developer</b> who bridges the gap between clean code and
     </td>
   </tr>
 </table>
-
 <br>
 
 ## 📧 Let's Connect!
